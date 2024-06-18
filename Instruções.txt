@@ -1,0 +1,8 @@
+Instruções de uso do programa Pegar cotações
+
+1- Abra o programa "Pegar cotações.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2ª OBS: Caso você não tenha a biblioteca requests instalada, abra o processador de comandos (CMD),
+digite o seguinte comando e aperte ENTER:
+pip install requests
